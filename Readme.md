@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/HideComponentTray/Form1.cs) (VB: [Form1.vb](./VB/HideComponentTray/Form1.vb))
+<!-- default file list end -->
 # How to maintain the visibility of components in the End-User Designer
 
 
